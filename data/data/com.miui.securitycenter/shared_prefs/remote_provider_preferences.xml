@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <long name="bootTimeKey" value="1658624400000" />
+    <string name="VAID_0">5AE2C93B3BF359BBBEDE47C22670DCDD295683902365C842ABAFF0E2589AA35F</string>
+    <set name="gb_added_games" />
+    <float name="PREF_KEY_STANDBY_WIFI" value="70.587364" />
+    <boolean name="key_default_preferences_saved" value="true" />
+    <long name="key_last_kill_running_app_time" value="0" />
+    <string name="pref_key_firebase_instance_id">dRSP1EeTTRa4RcG-RbUYyo</string>
+    <string name="pref_current_video_app"></string>
+    <int name="key_today_charge_times" value="1" />
+    <float name="PREF_KEY_STANDBY_4G" value="70.587364" />
+    <int name="show_dialog_period" value="15" />
+    <boolean name="post_scan_introduce_notification_count" value="false" />
+    <boolean name="key_battery_abnormal_noti_enable" value="true" />
+    <boolean name="pref_support_front_light" value="false" />
+    <long name="key_start_device_time_for_gms" value="1658561266228" />
+    <boolean name="key_is_deleted_privacy_file" value="true" />
+    <int name="cm_whatsapp_clean_notification_cnt" value="5" />
+    <boolean name="pref_first_jobservice_load_game" value="false" />
+    <boolean name="key_safepay_auto_scan_state" value="true" />
+    <boolean name="key_system_item_default_checked" value="true" />
+    <string name="voice_changer_tips_info"></string>
+    <string name="voice_changer_mode_title"></string>
+    <boolean name="key_charge_full_in_night" value="false" />
+    <long name="key_shutdowntime" value="1658562234537" />
+    <boolean name="game_IsAntiMsg" value="false" />
+    <string name="toggle_engine_one">Avast</string>
+    <string name="last_load_period_time">2022-07-23</string>
+    <long name="key_charge_begin_time" value="0" />
+    <boolean name="pref_function_connect_status" value="false" />
+    <int name="pref_gamebooster_show_way" value="0" />
+    <set name="game_from_net" />
+    <long name="key_last_charge_stamp" value="1658561492539" />
+    <set name="pref_video_box_app_list">
+        <string>com.miui.videoplayer</string>
+    </set>
+    <set name="already_added_game" />
+    <int name="key_partical_wakelock_abnormal_threshold" value="7" />
+    <long name="key_last_get_incompatible_app_time" value="1658561282344" />
+    <long name="key_hp_optimize_point_value" value="1073741824" />
+    <long name="key_last_delete_gameunion_file_time" value="1658561282645" />
+    <long name="key_last_upload_switch_analytics_time" value="1658561282167" />
+    <long name="key_battery_record_resettime" value="28682" />
+    <boolean name="pref_video_booster_status" value="false" />
+    <int name="key_hp_standard_score" value="80" />
+    <int name="key_cpu_abnormal_threshold" value="8" />
+    <long name="gamebooster_xunyou_cache_time" value="0" />
+    <boolean name="key_third_item_default_checked" value="true" />
+    <boolean name="security_adb_install_enable" value="true" />
+</map>
