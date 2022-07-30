@@ -1,7 +1,7 @@
 # Redmi 9
 
 | Codename | Lancelot |
-|----------|---------:|
+|:----------|---------:|
 | Unified Codename | Lava |
 | Released | June, 2020 |
 | Chipset | Mediatek MT6769V/CU Helio G80 (12 nm)
@@ -39,8 +39,8 @@
 **[NikGapps Debloater Config](/sdcard/NikGapps/debloater.config) :** This config is meant to be used exclusively with NikGapps Debloater Addon. Put the config file inside `/sdcard/NikGapps/` folder and flash the addon file in recovery.
 
 ## Unlock Bootloader
-**Official Method :** This method is same for latest Xioami devices. Follow any of the guide available online. e.g. [Fossbyte](https://fossbytes.com/how-to-unlock-bootloader-on-xiaomi-devices-using-mi-unlock-tool/)
-**Instant Unlock :** Instantly unlock bootloader using [mtkclient](https://github.com/bkerler/mtkclient) tool. TODO : A detail guide on how to use the tool.
+- **Official Method :** This method is same for latest Xioami devices. Follow any of the guide available online. e.g. [Fossbyte](https://fossbytes.com/how-to-unlock-bootloader-on-xiaomi-devices-using-mi-unlock-tool/)
+- **Instant Unlock :** Instantly unlock bootloader using [mtkclient](https://github.com/bkerler/mtkclient) tool. TODO : A detail guide on how to use the tool.
 
 ## build.prop 
 I tweaked [build.prop](/system/build.prop) per my needs, it's in messy condition and it might contain unnecessary entries. USE AT YOUR OWN RISK!
