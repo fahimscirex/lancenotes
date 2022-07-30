@@ -1,8 +1,7 @@
 # Redmi 9
 
-_______________________
 | Codename | Lancelot |
-_______________________
+|----------|---------:|
 | Unified Codename | Lava |
 | Released | June, 2020 |
 | Chipset | Mediatek MT6769V/CU Helio G80 (12 nm)
